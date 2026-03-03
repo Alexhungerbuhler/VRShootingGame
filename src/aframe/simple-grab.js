@@ -5,8 +5,8 @@ import Keyboard from '../utils/keyboard.js';
 AFRAME.registerSystem('simple-grab', {
   schema: {
     allowMidAirDrop: {type: 'boolean', default: false},
-    handRight: {type: 'selector', default: '#hand-right'},
-    handLeft: {type: 'selector', default: '#hand-left'},
+    handRight: {type: 'selector', default: '#raycaster-hand-right'},
+    handLeft: {type: 'selector', default: '#raycaster-hand-left'},
     dummyHandRight: {type: 'selector', default: '#dummy-hand-right'},
     dummyHandLeft: {type: 'selector', default: '#dummy-hand-left'},
     nonVrCursor: {type: 'selector', default: '[cursor]'},
@@ -140,7 +140,13 @@ AFRAME.registerComponent('simple-grab', {
     this.system.timerGrabInProgress = setTimeout(() => this.system.isGrabInProgress = false, 500);
 
     // If something already grabbed, switch it
+    // But if the current grab is a gun and the game is playing, lock it — prevent any drop
     if (currentGrab) {
+      const gm = this.el.sceneEl.systems['game-manager'];
+      if (currentGrab.hasAttribute('weapon-fire') && gm && gm.gameState === 'playing') {
+        this.grabbedBy = null; // cancel this grab attempt
+        return;
+      }
       copyPosition(this.el, currentGrab);
       copyRotation(this.el, currentGrab);
       currentGrab.components['simple-grab'].grabbedBy = null;

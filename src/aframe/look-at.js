@@ -2,6 +2,7 @@ AFRAME.registerComponent('look-at', {
   schema: {
     target: {type: 'selector', default: '[camera]'},
     enabled: {type: 'boolean', default: true},
+    matchY: {type: 'boolean', default: false},
   },
   init: function () {
     this.targetWorldPos = new THREE.Vector3();
@@ -19,6 +20,10 @@ AFRAME.registerComponent('look-at', {
     if (!this.data.target) return;
     this.data.target.object3D.getWorldPosition(this.targetWorldPos);
     this.el.object3D.getWorldPosition(this.myWorldPos);
+    // If matchY is true, keep the NPC's Y so the look-at only rotates on the horizontal plane
+    if (this.data.matchY) {
+      this.targetWorldPos.y = this.myWorldPos.y;
+    }
     this.el.object3D.lookAt(this.targetWorldPos);
   }
 });
