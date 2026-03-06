@@ -36,9 +36,7 @@ onMounted(() => {
   <a-scene background="color: #0a0e27" simple-grab="allowMidAirDrop: false" game-manager>
 
     <a-assets @loaded="allAssetsLoaded = true">
-      <img id="sky-texture" :src="`assets/citrus_orchard_road_puresky.jpg`">
       <a-asset-item id="room" src="assets/vr_exhibition_gallery_baked_gltf/scene.gltf"></a-asset-item>
-      <a-asset-item id="table" src="assets/simple_modern_table.glb"></a-asset-item>
       <!-- Assets spécifiques au CameraRig -->
       <a-asset-item id="hand-weapon" src="assets/heavy_plasma_gun_kurtz_x1.glb"></a-asset-item>
       <a-asset-item id="pnj" src="assets/low_poly_humanoid_robot.glb"></a-asset-item>

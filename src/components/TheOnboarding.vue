@@ -46,6 +46,34 @@
         </section>
         <dl>
           <dt>
+            <i>Assets</i>
+          </dt>
+          <dt>
+            <a href="https://www.fab.com/listings/f4559d15-b9a2-43c4-836a-5c417c04d10d" target="_blank">VR NPC Model</a>
+          </dt><dd>
+            <a href="https://www.fab.com/eula" target="_blank">Fab License</a>
+          </dd>
+          <dt>
+            <a href="https://www.fab.com/listings/251ea724-4602-4f36-80c3-5b27b92dabe0" target="_blank">HEAVY PLASMA GUN</a>
+          </dt><dd>
+            <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution</a>
+          </dd>
+          <dt>
+            <a href="https://www.fab.com/listings/3922d2eb-efef-49a9-9017-ee510c6260b5" target="_blank">VR Gallery Room</a>
+          </dt><dd>
+            <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution</a>
+          </dd>
+          <dt>
+            <a href="https://www.fab.com/listings/3922d2eb-efef-49a9-9017-ee510c6260b5" target="_blank">Music Techno</a>
+          </dt><dd>
+            <a href="https://pixabay.com/sound-effects/" target="_blank">by Ahmed Abdulaal from Pixabay</a>
+          </dd>
+           <dt>
+            <a href="https://www.fab.com/listings/3922d2eb-efef-49a9-9017-ee510c6260b5" target="_blank">Sound Effects</a>
+          </dt><dd>
+            <a href="https://pixabay.com/sound-effects/" target="_blank">by u_o8xh7gwsrj from Pixabay</a>
+          </dd>
+          <dt>
             <i>Included</i>
           </dt>
           <dt>
