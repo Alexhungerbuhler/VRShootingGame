@@ -30,8 +30,15 @@
 
 ### 3D models
 
-- **Main room** – [VR Gallery](https://sketchfab.com/3d-models/vr-gallery-1ac32ed62fdf424498acc146fad31f7e) by [Maxim Mavrichev](https://sketchfab.com/mvrc.art) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- **3D physic room** – [3d_gallery_for_vr_projects](https://sketchfab.com/3d-models/3d-gallery-for-vr-projects-68f77ed8558c4bd59e0a13e2cc9d1fd1) by [tekuto1s](https://sketchfab.com/tekuto1s) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+#### Assets utilisés
+
+| Asset              | Auteur / Source                                                                 | Licence / Lien                                                                 |
+|--------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| [VR NPC Model](https://www.fab.com/listings/f4559d15-b9a2-43c4-836a-5c417c04d10d) | [Denys Almaral](https://www.fab.com/sellers/Denys%20Almaral)                  | [Standard License](https://www.fab.com/eula)                                  |
+| [HEAVY PLASMA GUN](https://www.fab.com/listings/251ea724-4602-4f36-80c3-5b27b92dabe0) | [tekuto1s](https://www.fab.com/sellers/tekuto1s)                              | [FAB License](https://www.fab.com/eula)                                       |
+| [VR Gallery Room](https://www.fab.com/listings/3922d2eb-efef-49a9-9017-ee510c6260b5) | [Christy Hsu](https://www.fab.com/sellers/Christy%20Hsu)                      | [FAB License](https://www.fab.com/eula)                                       |
+| [Music Techno](https://www.fab.com/listings/3922d2eb-efef-49a9-9017-ee510c6260b5)   | [Ahmed Abdulaal from Pixabay](https://pixabay.com/sound-effects/)              | Free (Pixabay)                                                                |
+| [Sound Effects](https://www.fab.com/listings/3922d2eb-efef-49a9-9017-ee510c6260b5)  | [u_o8xh7gwsrj from Pixabay](https://pixabay.com/sound-effects/)                | Free (Pixabay)                                                                |
 
 ---
 

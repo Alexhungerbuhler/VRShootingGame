@@ -30,19 +30,11 @@
               Desktop – Keyboard for move (WASD or Arrows keys) + Mouse for look
               control (Drag and drop)
             </li>
-            <li>
-              Mobile – 1x Finger touch to go forward + 2x Fingers touch to go
-              backward + Gaze cursor for click
-            </li>
-            <li>
-              VR/AR – walk + Teleport (Grip for grab and laser for
-              click) + Gaze cursor for click
-            </li>
           </ul>
         </section>
         <section>
           <h4>Source code</h4>
-          <blockquote><a href="https://github.com/Chabloz/a-frame-vite-vue-boilerplate">Github repo</a></blockquote>
+          <blockquote><a href="https://github.com/Alexhungerbuhler/VRShootingGame">Github repo</a></blockquote>
         </section>
         <dl>
           <dt>
@@ -51,17 +43,21 @@
           <dt>
             <a href="https://www.fab.com/listings/f4559d15-b9a2-43c4-836a-5c417c04d10d" target="_blank">VR NPC Model</a>
           </dt><dd>
-            <a href="https://www.fab.com/eula" target="_blank">Fab License</a>
+            by <a href="https://www.fab.com/sellers/Denys%20Almaral" target="_blank">Denys Almaral</a>
+            under <a href="https://www.fab.com/eula" target="_blank">Standard License</a>
           </dd>
+
           <dt>
             <a href="https://www.fab.com/listings/251ea724-4602-4f36-80c3-5b27b92dabe0" target="_blank">HEAVY PLASMA GUN</a>
           </dt><dd>
-            <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution</a>
+            by <a href="https://www.fab.com/sellers/tekuto1s" target="_blank">tekuto1s</a>
+            under <a href="https://www.fab.com/eula" target="_blank">FAB License</a>
           </dd>
           <dt>
             <a href="https://www.fab.com/listings/3922d2eb-efef-49a9-9017-ee510c6260b5" target="_blank">VR Gallery Room</a>
           </dt><dd>
-            <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">Creative Commons Attribution</a>
+            by <a href="https://www.fab.com/sellers/Christy%20Hsu" target="_blank">Christy Hsu</a>
+            under <a href="https://www.fab.com/eula" target="_blank">FAB License</a>
           </dd>
           <dt>
             <a href="https://www.fab.com/listings/3922d2eb-efef-49a9-9017-ee510c6260b5" target="_blank">Music Techno</a>
@@ -106,21 +102,7 @@
             By Ada Rose Cannon under MIT License
           </dd>
 
-          <dt>
-            <a href="https://sketchfab.com/3d-models/vr-gallery-1ac32ed62fdf424498acc146fad31f7e" target="_blank">VR Gallery</a>
-          </dt><dd>
-            by <a href="https://sketchfab.com/mvrc.art" target="_blank">Maxim Mavrichev</a>
-            under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
-          </dd>
-
-          <dt>
-            <a href="https://sketchfab.com/3d-models/3d-gallery-for-vr-projects-68f77ed8558c4bd59e0a13e2cc9d1fd1" target="_blank">Physic room model</a>
-          </dt><dd>
-            by <a href="https://sketchfab.com/tekuto1s" target="_blank">tekuto1s</a>
-            under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
-          </dd>
-
-        </dl>
+          </dl>
       </div>
     </div>
   </div>
